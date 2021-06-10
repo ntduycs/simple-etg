@@ -1,0 +1,11 @@
+{
+  "name": "express-app-generator",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "edit-json-file": "^1.6.0",
+    "ncp": "^2.0.0"
+  }
+}
