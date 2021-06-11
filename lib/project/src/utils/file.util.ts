@@ -1,9 +1,6 @@
 import fs from "fs-extra";
 import childProcess, { ExecException } from "child_process";
-import Logger from "jet-logger";
-
-const logger = new Logger();
-logger.timestamp = false;
+import logger from "@utils/logger.util";
 
 function remove(dir: string): Promise<void> {
   return new Promise((resolve, reject) => {

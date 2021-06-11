@@ -1,4 +1,3 @@
-/* eslint-disable  @typescript-eslint/no-explicit-any */
 function getEnvironment(key: string, defaultValue: string): string {
   const value = process.env[key];
 
