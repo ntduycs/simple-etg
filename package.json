@@ -1,5 +1,6 @@
 {
   "name": "simple-etg",
+  "description": "Simple Express app generator with Typescript",
   "version": "1.0.0",
   "author": {
     "name": "Duy Nguyen Thanh",
