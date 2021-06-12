@@ -1,12 +1,19 @@
 {
   "name": "simple-etg",
   "description": "Simple Express app generator with Typescript",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "author": {
     "name": "Duy Nguyen Thanh",
     "email": "ntduy.cs@gmail.com"
   },
-  "keywords": ["express", "typescript", "generator", "rest", "webpack", "linter"],
+  "keywords": [
+    "express",
+    "typescript",
+    "generator",
+    "rest",
+    "webpack",
+    "linter"
+  ],
   "bugs": {
     "email": "ntduy.cs@gmail.com",
     "url": "https://github.com/ntduycs/simple-etg/issues"
