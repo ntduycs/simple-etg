@@ -1,5 +1,5 @@
 {
-  "name": "generated-exporess-app",
+  "name": "generated-express-app",
   "version": "1.0.0",
   "main": "src/index.ts",
   "license": "MIT",

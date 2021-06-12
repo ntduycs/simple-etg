@@ -1,5 +1,5 @@
 {
-  "name": "express-app-generator",
+  "name": "simple-etg",
   "version": "1.0.0",
   "main": "src/index.js",
   "license": "MIT",
