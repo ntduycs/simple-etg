@@ -3,8 +3,6 @@
 ===================
 
 [![npm Package](https://img.shields.io/npm/v/simple-etg.svg?style=flat-square)](https://www.npmjs.org/package/simple-etg)
-[![build status](https://secure.travis-ci.org/jprichardson/simple-etg.svg)](http://travis-ci.org/jprichardson/node-jsonfile)
-[![windows Build status](https://img.shields.io/appveyor/build/jprichardson/simple-etg/master.svg?label=windows%20build)](https://ci.appveyor.com/project/jprichardson/node-jsonfile/branch/master)
 
 ## :cloud: Quick Start
 The quickest way to get started is use npx and pass in the name of the project you want to create. If you don't specify a project name, the default `simple-etg` will be used instead. If you want to use yarn instead of npm, pass the option `--useYarn`.
