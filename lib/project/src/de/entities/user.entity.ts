@@ -17,7 +17,6 @@ class User implements IUser {
     this._password = password;
   }
 
-
   get id(): string {
     return this._id;
   }

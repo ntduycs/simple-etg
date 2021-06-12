@@ -28,7 +28,6 @@ class UserRepository implements IUserRepository {
   update(user: IUser): Promise<void> {
     return Promise.resolve(undefined);
   }
-
 }
 
 export default UserRepository;
