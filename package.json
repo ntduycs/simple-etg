@@ -1,6 +1,17 @@
 {
   "name": "simple-etg",
   "version": "1.0.0",
+  "author": {
+    "name": "Duy Nguyen Thanh",
+    "email": "ntduy.cs@gmail.com"
+  },
+  "keywords": ["express", "typescript", "generator", "rest", "webpack", "linter"],
+  "bugs": {
+    "email": "ntduy.cs@gmail.com",
+    "url": "https://github.com/ntduycs/simple-etg/issues"
+  },
+  "homepage": "https://github.com/ntduycs/simple-etg#readme",
+  "repository": "github:ntduycs/simple-etg",
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
